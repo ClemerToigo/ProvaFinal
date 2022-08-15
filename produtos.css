@@ -40,10 +40,17 @@ footer{
 h6{
     text-align: center;
     padding-top: 2%;
-    color: green;
+    color: rgb(255, 255, 255);
 }
 hr{
 
     height: 2px;
     background-color: black;
+}
+.lista  li a:hover{
+    color: white;
+    list-style: none;
+}
+.estilo ul li a:hover{
+    list-style: none;
 }

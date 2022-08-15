@@ -40,7 +40,7 @@ footer{
 h6{
     text-align: center;
     padding-top: 2%;
-    color: green;
+    color: rgb(255, 255, 255);
 }
 hr{
 
@@ -55,5 +55,9 @@ hr{
     text-align: center;  
 }
 .bolinha{
+    list-style: none;
+}
+.lista  li a:hover{
+    color: white;
     list-style: none;
 }
